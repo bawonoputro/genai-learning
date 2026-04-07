@@ -1,0 +1,241 @@
+# TEXT GENERATION EXPERIMENT RESULTS
+
+## Summary
+- 3 models tested: GPT-2, DistilGPT-2, facebook/opt-350m
+- 3 chunks of experiments: Multiple models, Temperature, top_k
+
+----------------
+
+## Chunk 1: Multiple Models & Prompts
+
+### Model: GPT-2
+
+Prompt: Once upon a time
+
+Output: Once upon a time, I was at a restaurant in a small town in southern California. In the early morning, we got out of the car and parked at the back of the restaurant and we immediately started looking at the food. We were so excited to see how much food was in the restaurant and the food was delicious. I think you can imagine the excitement when I walked in and saw this food. I was so excited to see it.
+So I started looking around to see where we were going. I was there for 3 hours and I could see that the food was amazing. I was getting so excited to see what was out there and to really see the food.
+I went in to the back of the restaurant and went to pick up my food and just sat there and watched the food come out. I just saw so many things out there and it was amazing to watch. It was very exciting to see it. I had never seen a food like it before and I had never seen a food like it at a restaurant that I have had before.
+Here is the recipe for the Chicken Sausage and the Sausage and the Sausage and the Sausage and the Sausage and the Sausage and the Sausage and the
+
+
+Prompt: Compared to Asia, Europe
+
+Output: Compared to Asia, Europe is not the only place where the government is not doing its job. The European Union has been doing its job well, but as of this writing, there is no country to be seen as a "leader of the free world."
+This is not the world we live in today. The United States, which has been a leader of free societies for many centuries, is now a leader of a new world. We should celebrate the fact that our democracy is not in crisis.
+The United States is the world's largest economy. It has produced one of the most brilliant economies in the world, the world's largest defense budget, and the world's largest prison population. It has created a military economy strong enough to fight for all of us and a world that supports the greatest number of immigrants. Its military is the largest in the world, and we have a military that has the best troops in the world. It can keep us safe from the most dangerous threats. And the United States has been the leader of an international police state that has been a threat to us since the founding.
+The United States has been the world leader of a very long record of human rights abuses, including mass incarceration, torture, and the death penalty. We have been the leader of
+
+
+Prompt: Lately
+
+Output: Lately, I've been trying to figure out how to make fun of people's choices, and I've found, over time, that some people feel like they're doing it for the same reason they're doing it for the sake of making fun of others. So, I've started to work on creating a new way to ask people to let me know what they think of me or how I feel about them. I've put together a list of people who are really great friends with me and I feel I can help them with that. And so, some of them are now doing it for my own, or for my own benefit, or for their own personal benefit.
+And so, I've started making a list of people who are really great friends with me and I feel I can help them with that. And so, some of them are now doing it for my own, or for my own benefit, or for their own personal benefit.
+I think it's really amazing that so many people are doing it for this reason. I really hope that it's helped people to be able to recognize when it's good to be nice, to be honest with others. I think it's really great that so many people are doing it for this reason. I think
+
+
+### Model: DistilGPT-2
+
+
+Prompt: Once upon a time
+
+Output: Once upon a time of the past, many people have taken the opportunity to do their part to help the community in their communities. This process is part of a larger effort to encourage the community to be involved in the community, as well as other communities and organizations as well as individuals in the community.
+We hope to see you all in the next week's community meeting and the upcoming community meeting.
+Thank you for joining us in the conversation.
+If you are interested in joining the community or you are interested in joining the community, please send a message to us.
+This article was first published on The Conversation. Read the original article.
+
+
+Prompt: Compared to Asia, Europe
+
+Output: Compared to Asia, Europe and the Pacific, the United States and Canada are the only countries of greater strength in terms of economic and military power.
+
+
+Prompt: Lately
+
+Output: Lately, the White House has reportedly issued a press release detailing the president's plans to end the Iran nuclear deal, but the White House has not issued a press release about the president's plans to end the Iran nuclear deal.
+
+
+
+### Model: Facebook opt-350m
+
+Prompt: Once upon a time
+
+Output: Once upon a time, there was a man.
+He was a man, and he was a gay man.
+He was a gay man, and he was a gay man, and he was a gay man, and he was a gay man.
+And he had a wife.
+And he was a gay man, and he had a wife.
+And he had a child.
+And a son.
+And a daughter.
+And a son.
+And a daughter.
+And a son.
+And a daughter.
+And a daughter.
+And a son.
+And a daughter.
+And a son.
+And a daughter.
+And a daughter.
+And a son.
+And a daughter.
+And a son.
+And a daughter.
+And a daughter.
+And a son.
+And a son.
+And a daughter.
+And a daughter.
+And a daughter.
+And a daughter.
+And a daughter.
+And a son.
+And a daughter.
+And a son.
+And a daughter.
+And a daughter.
+And a son.
+And a daughter.
+And a son.
+And a daughter.
+And a son.
+And a daughter.
+And a daughter.
+
+
+Prompt: Compared to Asia, Europe
+
+Output: Compared to Asia, Europe is a lot nicer.
+Titanic, Titanic, Titanic. In Europe, they’re all the same.
+The British are a bit more subdued, but they’re not bad. The Americans are the best of the lot. The people on the Titanic are the best.
+The Americans have more history, more stories, and better music.
+In Japan, people are more respectful of their elders.
+Korea and South Korea are the best of the lot.
+South Korea and Malaysia are the best of the lot.
+Japan is the best of the lot.
+South Korea is the best of the lot.
+In Europe, the Italians are the best of the lot.
+The Germans are the best of the lot.
+The Swedes are the best of the lot.
+In Japan, the Japanese are the best of the lot.
+In South Korea, the Japanese are the best of the lot.
+In South Korea, the Germans are the best of the lot.
+In Japan, the Swedes are the best of the lot.
+In South Korea, the Swedes are the best of the lot.
+In South Korea,
+
+
+Prompt: Lately
+
+Output: Lately I've been reading reviews of this game and it's been so good. I've heard good things about it. I was going to buy it but after a week I had to re-read the reviews and the gameplay was so bad that I decided to wait.
+I would, but the reviews are so bad that I might have to wait.
+
+
+----------------
+
+## Chunk 2: Temperature Experimentation
+
+Prompt: Tonight, 
+
+
+### Model: GPT-2
+
+Temperature: 0.5
+Output: Tonight,  the movie will be released in Japan.  I hope that you all enjoy it and I hope to see you all again soon!
+
+Temperature: 1.5
+Output: Tonight, 【Cleveland Pride】【Clevelate Festival】, we had two choices. We must leave or there is danger that those who are not afraid or who do not want to return here will leave (for a year)" The girl on the first floor replied excitedly. «My Lord——, not saying that anyone who wants to live in 【Cleveland Pride】 has even crossed over. As long as this city lives happily here, we would like everyone here even further. The future doesn't need to happen once again! Right now nobody will be able to fight the other two, those who think that one will never escape——, with them you see that is right…..you guys know……there´ve something that is better for our future. But you guys will soon have all the power this world possesses in you guys….. «And in short here is… a place where I belong!!" The young man who sat in front the hall sighed and looked at Luo Feng and muttered to herself. «……I shall return sooner. A girl like that should be with me all that time.」 Hearing this the woman who went into question quickly left the hall in a faint voice and came back at Luo Feng's side. «Ah my Lord! You are right.」
+
+
+### Model: DistilGPT-2
+
+Temperature: 0.5
+Output: Tonight,      
+
+Temperature: 1.5
+Output: Tonight,   from   on   on  
+
+
+### Model: Facebook opt-350m
+
+Temperature: 0.5
+Output: Tonight,  we'll be celebrating the 1st anniversary of our relationship.  We'll be spending the night in bed together,  and then we'll be in the kitchen,  and then we'll be in the living room,  and then we'll be in bed together.                                                                                                                                                                                                          
+
+Temperature: 1.5
+Output: Tonight, ~~EVERY1 HAS A BLOG POSTING ABOUT DOGDEST BABY~~
+How you think I know it when I'm talking and posting that much? I was thinking it through this morning to think back to stuff I would do just in case
+/thread maybe
+It says I have 20 posts before you and one post after me which has 9 more posts than mine so...yeah.
+
+
+----------------
+
+## Chunk 3: top_k Experimentation
+
+Prompt: After the sunset, the kid
+
+
+### Model: GPT-2
+
+Top_K: 1
+Output: After the sunset, the kid was sitting on the couch, his head tilted back and his eyes closed. He was a little bit confused, but he was still very happy.
+"I'm so happy," he said. "I'm so happy to be here."
+"I'm so happy to be here," he said. "I'm so happy to be here."
+"I'm so happy to be here," he said. "I'm so happy to be here."
+"I'm so happy to be here," he said. "I'm so happy to be here."
+"I'm so happy to be here," he said. "I'm so happy to be here."
+"I'm so happy to be here," he said. "I'm so happy to be here."
+"I'm so happy to be here," he said. "I'm so happy to be here."
+"I'm so happy to be here," he said. "I'm so happy to be here."
+"I'm so happy to be here," he said. "I'm so happy to be here."
+"I'm so happy to be here," he said. "I'm so happy to be here."
+
+Top_K: 5
+Output: After the sunset, the kid was still in the middle of the street, his eyes closed. He looked at his mom, who was sitting in the corner of his room, her face still in her hands. She looked at him, and then back at his mom.
+"Mom," he whispered.
+"I'm sorry," he said. "I didn't mean to hurt you."
+The boy looked up and down, his eyes wide. The girl was staring at him, eyes still closed. She looked at him, and then back at him, and then back at him again.
+"I'm sorry," he whispered.
+The girl looked down, and he looked at her again.
+"I'm sorry," she said. "I'm sorry."
+He stared at her, and then back at her again, and then back at her again, and then back at her again.
+"I'm sorry," he whispered.
+She looked at him.
+"I'm sorry," she said. "I'm sorry."
+The boy stared back at her, and then back at her again, and then back at her again, and then back at her again, and then back at her again.
+
+
+### Model: DistilGPT-2
+
+Top_K: 1
+Output: After the sunset, the kid was in the middle of a long, long, long, long, long, long, long, long, long, long, long, long, long, long, long, long, long, long, long, long, long, long, long, long, long, long, long, long, long, long, long, long, long, long, long, long, long, long, long, long, long, long, long, long, long, long, long, long, long, long, long, long, long, long, long, long, long, long, long, long, long, long, long, long, long, long, long, long, long, long, long, long, long, long, long, long, long, long, long, long, long, long, long, long, long, long, long, long, long, long, long, long, long, long, long, long, long, long, long, long, long, long, long, long, long, long, long, long, long, long, long, long, long, long, long, long, long, long, long, long, long, long, long, long, long,
+
+Top_K: 5
+Output: After the sunset, the kid is standing next to him, staring at her.
+"What are you doing?"
+"No, I'm not doing this. You're just doing it."
+"No, I'm not doing this. You're just doing it."
+The boy is still smiling, and the boy is still smiling.
+"No, I'm not doing this."
+The boy is still smiling, and the boy is still smiling.
+"What are you doing?"
+"No, I'm not doing this. You're just doing it. You're just doing it."
+The boy is still smiling, and the boy is still smiling.
+The boy is still smiling, and the boy is still smiling. The boy is still smiling, and the boy is still smiling.
+The boy is still smiling, and the boy is still smiling. The boy is still smiling, and the boy is still smiling. The boy is still smiling, and the boy is still smiling.
+The boy is still smiling, and the boy is still smiling. The boy is still smiling, and the boy is still smiling.
+The boy is still smiling, and the boy is still smiling.
+The boy is still smiling, and the boy is still smiling. The boy is
+
+
+### Model: Facebook opt-350m
+
+Top_K: 1
+Output: After the sunset, the kid is still in the car.
+I'm pretty sure that's the point.
+
+Top_K: 5
+Output: After the sunset, the kid is going to be a millionaire.
+I'm pretty sure the kid is a millionaire because he was born in the wrong year.
+That's the joke.
