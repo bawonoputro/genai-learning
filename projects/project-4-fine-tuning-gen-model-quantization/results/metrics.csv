@@ -1,0 +1,5 @@
+model,avg_generation_time_sec,max_new_tokens,num_return_sequences,approx_model_size_mb
+gpt2-baseline,1.295833491798112,80,1,474.7001953125
+gpt2-finetuned,1.3503245332001823,80,1,474.7001953125
+gpt2-finetuned-onnx-fp32,,80,1,475.1252899169922
+gpt2-finetuned-onnx-int8,,80,1,119.68791580200195

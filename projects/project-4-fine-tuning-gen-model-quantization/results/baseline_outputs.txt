@@ -1,0 +1,47 @@
+--- Baseline Output 1 ---
+Prompt: A game about space exploration
+Generated: A game about space exploration, but I'm going to take a quick look at the actual game from its inception, and how it can be used in your development.
+
+What makes the game different from other games in that respect?
+
+The first game has the same premise but with a slightly different approach to gameplay.
+
+You're first going to explore the world on your own.
+
+This game is an
+--- Baseline Output 2 ---
+Prompt: A game with multiplayer action
+Generated: A game with multiplayer action. The game will be released in the spring of 2017 and will include the following:
+
+An introduction to the game in a game with multiplayer action. The game will be released in the spring of 2017 and will include the following:
+--- Baseline Output 3 ---
+Prompt: A story-driven adventure game
+Generated: A story-driven adventure game for the Xbox One. Get more info at http://www.xboxone.com/.
+
+Developer: Microsoft Studios
+
+Publisher: Microsoft Studios
+
+Released: October 20, 2016
+
+MSRP: $19.99
+
+PS4: $19.99
+
+Xbox One: $19.99
+
+For more details on the Xbox One release, check out the
+--- Baseline Output 4 ---
+Prompt: A puzzle game for kids
+Generated: A puzzle game for kids. It's filled with puzzles for every level.
+
+A puzzle game for kids. It's filled with puzzles for every level. A puzzle game for kids. It's filled with puzzles for all levels. A puzzle game for kids. It's filled with puzzles for all levels. A puzzle game for kids. It's filled with puzzles for all levels. It's filled with puzzles for all levels
+--- Baseline Output 5 ---
+Prompt: A horror survival game
+Generated: A horror survival game that can make any genre play.
+
+A survival horror game that can make any genre play. This is a game for the people who like to live in the dark and it's pretty awesome.
+
+A game for the people who like to live in the dark and it's pretty awesome. This is a game for the people who love the game and it's a great game.
+
+

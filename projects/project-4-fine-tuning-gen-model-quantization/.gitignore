@@ -1,0 +1,12 @@
+venv/
+venv311/
+.env
+.venv/
+
+logs/
+*.log
+
+models/
+
+data/
+.DS_Store

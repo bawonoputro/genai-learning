@@ -1,0 +1,20 @@
+--- Fine-tuned Output 1 ---
+Prompt: A game about space exploration
+Generated: A game about space exploration. The game contains a vast amount of levels, some are challenging and some are a bit easier. The game will give you a chance to see how to play. The game will have a lot of weapons, some are simple but some are very complex and complicated. In the game there are two weapons, a rocket launcher and a space elevator. Each weapon is equipped with a shield or a shield-
+
+--- Fine-tuned Output 2 ---
+Prompt: A game with multiplayer action
+Generated: A game with multiplayer action in which you must control the ship using your joystick and the other players on the ship to control the ship. In this game you control the pilot of a ship using his or her own ship, your ship's abilities. As you use different ship types to achieve different goals, different challenges will be created. Game Features: - 4 different ship types - Different stages with different enemies - 3 difficulty levels -
+
+--- Fine-tuned Output 3 ---
+Prompt: A story-driven adventure game
+Generated: A story-driven adventure game with RPG elements. You will play as a girl who is trying to discover a strange artifact that will allow you to save her life. You will have to overcome various obstacles and enemies, including a few dangerous animals. You will also have to find a way out of the dungeon. You will be able to use the power of the artifact. In addition, there will be a hidden object to find.
+
+--- Fine-tuned Output 4 ---
+Prompt: A puzzle game for kids
+Generated: A puzzle game for kids that is easy to learn, hard to master, but fun nonetheless. Puzzles are easy to get out of the house, but difficult to master. You will need to use simple logic to solve the puzzles. This game is for kids ages 2 to 6 months old. The game is suitable for anyone, no matter of age. This game has a relaxing soundtrack that is very simple and fun. Features:
+
+--- Fine-tuned Output 5 ---
+Prompt: A horror survival game
+Generated: A horror survival game. You play as a lone survivor who wakes up in a ruined city to find his sister dead. Your choices affect the fate of the city. Help your sister, investigate the abandoned building and save the girl. Survive as long as possible, trying to survive without dying. You need to use your mental strength, and find out what is really going on in the city. The game will have many interesting
+
