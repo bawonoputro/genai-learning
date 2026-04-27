@@ -87,5 +87,5 @@ See requirements.txt for exact versions.
 This project uses the [Steam dataset from Kaggle](https://www.kaggle.com/datasets/nikdavis/steam-store-games). Please refer to the dataset's license for usage rights.
 
 ## Author
-Paripurna Bawonoputro
+Paripurna Bawonoputro | 
 github: bawonoputro
