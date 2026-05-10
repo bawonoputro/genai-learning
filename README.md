@@ -36,7 +36,16 @@ A comprehensive portfolio of Generative AI projects outside of university assign
 - Implemented INT8 quantization for efficiency
 - Compared tradeoff accuracy vs efficiency
 
-[View Project →](./projects/project-4-finetuned-gpt2)
+[View Project →](./projects/project-4-fine-tuning-gen-model-quantization)
+
+### Project 5: RAG Game Recommendation System
+**Skills:** RAG, LangChain, FAISS, embeddings, local open-source LLMs
+- Built a game recommendation chatbot using Steam descriptions
+- Uses Embedl's Hugging Face embedding model for retrieval
+- Stores vectors in FAISS and retrieves relevant games
+- Generates recommendations with a small local Hugging Face model
+
+[View Project →](./projects/project-5-rag-game-recommendation)
 
 ## Learning Path
 
@@ -48,18 +57,21 @@ A comprehensive portfolio of Generative AI projects outside of university assign
 - Docker containerization
 - Model quantization & optimization
 - Hugging Face Model Hub integration
+- Retrieval-Augmented Generation (RAG)
+- LangChain retrievers, vector stores, and local LLM chains
 
 ## Key Skills
 
 ✅ **ML/DL:** Transfer learning, fine-tuning, embeddings, quantization
 ✅ **Production:** Docker, APIs, error handling, logging
 ✅ **Data:** Processing, tokenization, train/validation splits
-✅ **Tools:** Hugging Face, PyTorch, FastAPI, Pandas, NumPy
+✅ **Tools:** Hugging Face, PyTorch, FastAPI, Pandas, NumPy, LangChain, FAISS
 
 ## Tech Stack
 
 - **Languages:** Python 3.x (most in 3.14, some in 3.11)
-- **ML Frameworks:** PyTorch, Transformers, Sentence Transformers
+- **ML Frameworks:** PyTorch, Transformers, Sentence Transformers, LangChain
+- **Vector Search:** FAISS
 - **APIs & Deployment:** FastAPI, Uvicorn, Docker
 - **Data:** Pandas, NumPy, Datasets
 - **MLOps:** Hugging Face Hub, Git

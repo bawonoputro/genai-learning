@@ -1,0 +1,10 @@
+data/*
+!data/sample/
+!data/sample/*.csv
+vector_index/
+models/
+.venv/
+venv/
+__pycache__/
+*.pyc
+.DS_Store
